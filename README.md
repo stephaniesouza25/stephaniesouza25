@@ -10,8 +10,8 @@ Sou apaixonada por **dados**, **organização visual** e **tomada de decisões e
 
 ## 🚀 Projetos em destaque
 
-🔹 [Dashboard Financeiro em Excel](https://github.com/SeuUsuario/repositorio-dashboard-financeiro)  
-🔹 [Portfólio de Dashboards em Excel](https://github.com/SeuUsuario/repositorio-projetos-excel)  
+🔹 [Dashboard Financeiro em Power BI](https://github.com/stephaniesouza25/PowerBI)  
+🔹 [Portfólio de Dashboards em Excel](https://github.com/stephaniesouza25/ProjetosEmExcel)  
 🔹 *Em breve: novos projetos com Power BI e SQL!*
 
 ---
